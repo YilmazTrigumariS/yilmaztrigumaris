@@ -2,7 +2,7 @@
 
 Meet me, "A Data Grinder" 🔥
 
-✨ **Tackling every challenge with confidence!** ✨
+My motto: ✨ **Tackling every challenge with confidence!** ✨
 
 ## About Me
 I am a passionate **Data Enthusiast** starting my journey to explore the world of Data. Throughout my study at **Purwadhika Digital Technology School**, I learned the importance of Data, Machine Learning, and AI, that could solve even the hardest modern problems.
