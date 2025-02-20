@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL" alt="Header GIF" width="100%"/>
+  <img src="Header.gif" alt="Header GIF" width="100%"/>
 </p>
 
 ## 👋 Hello there stalker, I'm Yilmaz.
