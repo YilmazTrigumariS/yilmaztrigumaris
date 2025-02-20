@@ -4,6 +4,14 @@
 
 ✨ **Tackling every challenge with confidence!** ✨
 
+## About Me
+I am a passionate **Data Enthusiast** eager to explore the world of Data.  
+I specialize in working with **SQL, Python, and Business Intelligence tools** to extract meaningful insights.  
+
+My GitHub showcases projects I've worked on during my journey and I'm continuously learning and improving my skills! 😊  
+
+Feel free to contact me if you need anything or if you have an advice.
+
 ## 🚀 Skills & Tools:
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
