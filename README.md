@@ -14,7 +14,7 @@ If you are in need of anything or if you have an advice for me, feel free to rea
 
 Yours truely. 😊
 
-## 🚀 Skills & Tools:
+## 💻 Skills & Tools:
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
