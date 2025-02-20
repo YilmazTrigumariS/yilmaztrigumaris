@@ -7,13 +7,13 @@
 ## 🚀 Skills & Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Tableau_software_logo.svg" alt="Tableau" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Plotly-logo-01-square.png" alt="Plotly" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Streamlit_logo.svg" alt="Streamlit" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_Word_logo.svg" alt="Word" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="PowerPoint" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/>
