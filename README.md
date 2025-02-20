@@ -11,6 +11,7 @@ Just like they say, **"Modern Problems Requires Modern Solutions"**.
 I specialize in working with **SQL, Python, and Business Intelligence tools** to extract meaningful insights. My GitHub showcases projects I've worked on during my journey and since I am new to the world of data, I am continuously learning and improving my skills. Besides my coding and data skillset, I have deep understanding in Mining, Mineral Processing, Fleet Management and Oil & Gas Industry. But I have interest in other sector too like E-Commerce, Banking, Real Estate, Automotive, B2B - B2C Business, and many more! **The sky is my limit!** 🚀 
 
 If you are in need of anything or if you have an advice for me, feel free to reach out to me. That's all about me,
+
 Yours truely. 😊
 
 ## 🚀 Skills & Tools:
