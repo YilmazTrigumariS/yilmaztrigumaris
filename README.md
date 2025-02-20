@@ -9,11 +9,14 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
-  <a href="https://looker.com/" target="_blank">
-    <img src="https://seeklogo.com/images/L/looker-logo-9F1EDAD6D4-seeklogo.com.png" alt="Looker" width="40" height="40"/>
+  <a href="https://looker.google.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/looker-logo.svg" alt="Looker" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
+  </a>
+  <a href="https://plotly.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/plotly.svg" alt="Plotly" width="40" height="40"/>
   </a>
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/>
@@ -28,13 +31,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Microsoft_Word_2013-2019_logo.svg" alt="Word" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019–present%29.svg" alt="Word" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_2013-2019_logo.svg" alt="PowerPoint" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019–present%29.svg" alt="PowerPoint" width="40" height="40"/>
   </a>
   <a href="https://www.canva.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
