@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="YOUR_IMAGE_URL" alt="Header GIF" width="100%"/>
+</p>
+
 ## 👋 Hello there stalker, I'm Yilmaz.
 
 Meet me, "A Data Grinder" 🔥
