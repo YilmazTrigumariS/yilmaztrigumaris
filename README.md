@@ -10,7 +10,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
   <a href="https://looker.com/" target="_blank">
-  <img src="https://its.ucr.edu/sites/default/files/styles/form_preview/public/2020-04/looker-logo.png" alt="Looker" width="40" height="40"/>
+  <img src="https://funnel.io/hubfs/Looker%20Studio%20png%20logo.png" alt="Looker" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
