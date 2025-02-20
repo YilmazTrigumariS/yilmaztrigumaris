@@ -28,6 +28,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://yilmaztrigumaris.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Portfolio" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Internet-explorer_logo.svg" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
