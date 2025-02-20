@@ -4,29 +4,20 @@
 
 ✨ **Tackling every challenge with confidence!** ✨ 
 
-### 🛠 Tools & Skills:
-[![Text Editor](https://img.shields.io/badge/Text%20Editor-VS%20Code-blue)]()
-
-- 📊 **Skills:** VS Code, Statistics, Jupyter, MySQL, SQL, Tableau, Looker, Streamlit, Excel, Word, PowerPoint, Canva.
-
-## 🚀 About Me:
-- 🌱 I’m currently learning **Python, NLP, PyTorch, TensorFlow, Data Pipelines**
-- 💡 Ask me about anything.
-- 📖 Fun fact: I enjoy reading **Atomic Habits** & **Mindset**
-- 🌐 Check out my **Portfolio:** [yilmaztrigumaris.github.io](https://yilmaztrigumaris.github.io/)
-
-## 🚀 Languages and Tools:
+## 🚀 Skills & Tools:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Plotly-logo-01-square.png" alt="Plotly" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Streamlit_logo.svg" alt="Streamlit" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Plotly-logo-01-square.png" alt="Plotly" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Keras_logo.svg" alt="Keras" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Streamlit_logo.svg" alt="Streamlit" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="Word" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/PowerPointLogo.svg" alt="PowerPoint" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/>
 </p>
 
 ## 🌍 Connect with me:
@@ -36,5 +27,8 @@
   </a>
   <a href="https://www.instagram.com/ylmztrgmrsp/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://yilmaztrigumaris.github.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Internet-explorer_logo.svg" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
