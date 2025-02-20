@@ -13,7 +13,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
   </a>
   <a href="https://plotly.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="Plotly" width="40" height="40"/>
+    <img src="https://plotly.com/all-static/icon.png" alt="Plotly" width="40" height="40"/>
   </a>
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/>
@@ -34,7 +34,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019–present%29.svg" alt="Word" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Office_PowerPoint_%282019–present%29.svg" alt="PowerPoint" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019–present%29.svg" alt="PowerPoint" width="40" height="40"/>
   </a>
   <a href="https://www.canva.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
