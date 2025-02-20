@@ -1,16 +1,19 @@
 ## 👋 Hello there stalker, I'm Yilmaz.
 
-😊 Meet me, "A Data Grinder" 🔥
+Meet me, "A Data Grinder" 🔥
 
 ✨ **Tackling every challenge with confidence!** ✨
 
 ## About Me
-I am a passionate **Data Enthusiast** eager to explore the world of Data.  
-I specialize in working with **SQL, Python, and Business Intelligence tools** to extract meaningful insights.  
+I am a passionate **Data Enthusiast** starting my journey to explore the world of Data. Throughout my study at **Purwadhika Digital Technology School**, I learned the importance of Data, Machine Learning, and AI, that could solve even the hardest modern problems.
+Just like they say, **"modern problems require modern solutions"**.
 
-My GitHub showcases projects I've worked on during my journey and I'm continuously learning and improving my skills! 😊  
+I specialize in working with **SQL, Python, and Business Intelligence tools** to extract meaningful insights. My GitHub showcases projects I've worked on during my journey and since I am new to the world of data, I am continuously learning and improving my skills. The sky is my limit!
 
-Feel free to contact me if you need anything or if you have an advice.
+Besides my coding and data skillset, I have deep understanding in Mining, Mineral Processing, Fleet Management and Oil & Gas Industry. 
+Feel free to contact me if you need anything or if you have an advice for me.
+
+Yours truely. 😊
 
 ## 🚀 Skills & Tools:
 <p align="left">
