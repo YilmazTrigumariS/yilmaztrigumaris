@@ -10,7 +10,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
   <a href="https://looker.com/" target="_blank">
-  <img src="https://seeklogo.com/images/L/looker-logo-9F1EDAD6D4-seeklogo.com.png" alt="Looker" width="40" height="40"/>
+  <img src="https://about.google/brand-resource-center/logos-list/looker-logo.png" alt="Looker" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
