@@ -12,9 +12,6 @@
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
   </a>
-  <a href="https://plotly.com/" target="_blank">
-    <img src="https://plotly.com/all-static/icon.png" alt="Plotly" width="40" height="40"/>
-  </a>
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/>
   </a>
