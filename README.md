@@ -6,7 +6,7 @@ My motto: ✨ **Tackling every challenge with confidence!** ✨
 
 ## About Me
 I am a passionate **Data Enthusiast** starting my journey to explore the world of Data. Throughout my study at **Purwadhika Digital Technology School**, I learned the importance of Data, Machine Learning, and AI, that could solve even the hardest modern problems.
-Just like they say, **"modern problems require modern solutions"**.
+Just like they say, **"Modern Problems Requires Modern Solutions"**.
 
 I specialize in working with **SQL, Python, and Business Intelligence tools** to extract meaningful insights. My GitHub showcases projects I've worked on during my journey and since I am new to the world of data, I am continuously learning and improving my skills. The sky is my limit!
 
