@@ -55,6 +55,11 @@ Yours truely. 😊
   </a>
 </p>
 
+## 📊 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yilmaztrigumaris&layout=compact&langs_count=6&theme=radical" alt="Most Used Languages" />
+</p>
+
 ## 🌍 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/yilmaztrigumarisp" target="_blank">
