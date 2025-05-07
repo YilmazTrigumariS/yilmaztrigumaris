@@ -24,7 +24,7 @@ Yours truely. 😊
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
   <a href="https://looker.com/" target="_blank">
-  <img src="https://funnel.io/hubfs/Looker%20Studio%20png%20logo.png" alt="Looker" width="40" height="40"/>
+    <img src="https://funnel.io/hubfs/Looker%20Studio%20png%20logo.png" alt="Looker" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
@@ -52,6 +52,12 @@ Yours truely. 😊
   </a>
   <a href="https://www.canva.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://seeklogo.com/images/M/microsoft-power-bi-logo-696D7ED5D8-seeklogo.com.png" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/>
   </a>
 </p>
 
