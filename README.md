@@ -54,7 +54,7 @@ Yours truely. 😊
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://seeklogo.com/images/M/microsoft-power-bi-logo-696D7ED5D8-seeklogo.com.png" alt="Power BI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://colab.research.google.com/" target="_blank">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/>
